@@ -1,4 +1,4 @@
-alert('Hello, Osamu!');
+alert('Hello, Ousei!');
 alert(1+1);
 alert(Math.sprt(1+1));
 alert(2+2);
