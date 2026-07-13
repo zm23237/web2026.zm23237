@@ -12,7 +12,7 @@ alert(result1);
 
 /*0を0で割る計算をする*/
 const result2 = 0 / 0;
-alert(result2)
+alert(result2);
 
 /*以下、検証済み*/
 
