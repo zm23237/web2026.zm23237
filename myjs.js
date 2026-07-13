@@ -7,11 +7,11 @@ const sum = Math.sqrt(2) + Math.sqrt(3);
 alert(sum);
 
 /*1を0で割る計算をする*/
-const result1 = 1 / 0;
+const result = 1 / 0;
 alert(result)
 
 /*0を0で割る計算をする*/
-const result2 = 0 / 0;
+const result = 0 / 0;
 alert(result)
 
 /*以下、検証済み*/
