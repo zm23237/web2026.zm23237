@@ -8,11 +8,11 @@ alert(sum);
 
 /*1を0で割る計算をする*/
 const result1 = 1 / 0;
-alert(result1)
+alert(result)
 
 /*0を0で割る計算をする*/
 const result2 = 0 / 0;
-alert(result2)
+alert(result)
 
 /*以下、検証済み*/
 
