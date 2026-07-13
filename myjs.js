@@ -3,11 +3,12 @@ alert(1+1);
 alert(Math.sqrt(1+1));
 
 /*2の平方根と3の平方根の和を計算する*/
-const sum = Math.sqrt(2) + Math.sqrt(3);
+/*const sum = Math.sqrt(2) + Math.sqrt(3);*/
 /*1を0で割る計算をする*/
-const result = 1 / 0;
+/*const result = 1 / 0;*/
 /*0を0で割る計算をする*/
-const result = 0 / 0;
+/*const result = 0 / 0;*/
+
 
 /*以下、検証済み*/
 
